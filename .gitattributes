@@ -1,0 +1,1 @@
+LaminB.trimmed-cut.bwa-Dflt.mapped.n-sorted.fixed.sorted.dedup.log2ChIPinput.RPGC.smooth.bdg.gz filter=lfs diff=lfs merge=lfs -text
