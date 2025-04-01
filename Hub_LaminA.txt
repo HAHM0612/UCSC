@@ -3,4 +3,4 @@ shortLabel LaminA
 longLabel LaminA Hub
 genMethod custom
 genome rn6
-trackDb https://raw.githubusercontent.com/HAHM0612/UCSC/blob/main/track_LaminA.txt
+trackDb https://raw.githubusercontent.com/HAHM0612/UCSC/main/track_LaminA.txt
