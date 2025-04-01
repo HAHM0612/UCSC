@@ -4,3 +4,4 @@ longLabel LaminB Hub
 genMethod custom
 genome rn6
 trackDb https://raw.githubusercontent.com/HAHM0612/UCSC/main/track_LaminB.txt
+email hahm0621@gmail.com
