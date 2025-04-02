@@ -2,7 +2,8 @@ track sample1
 type bedGraph
 shortLabel LaminA
 longLabel ChIP-seq LaminA
-bigDataUrl https://drive.google.com/file/d/1CmL82pEDVvNmeqZ7856Cqeweju5-REkf/view?usp=drive_link
+bigDataUrl https://drive.google.com/uc?export=download&id=1CmL82pEDVvNmeqZ7856Cqeweju5-REkf
+
 color 255,111,105
 visibility dense
 
@@ -10,6 +11,6 @@ track sample2
 type bedGraph
 shortLabel Sample2
 longLabel ChIP-seq Sample 2
-bigDataUrl https://drive.google.com/file/d/19tcZhLl1qlX2qUR6pMqz3ELbXn3BjqkT/view?usp=drive_link
+bigDataUrl https://drive.google.com/uc?export=download&id=19tcZhLl1qlX2qUR6pMqz3ELbXn3BjqkT
 color 0,91,150
 visibility dense
