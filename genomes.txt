@@ -1,2 +1,2 @@
 genome rn6
-trackDb trackDb.txt
+trackDb rn6/trackDb.txt
