@@ -1,0 +1,5 @@
+hub myHub
+shortLabel My Track Hub
+longLabel Custom Track Hub for Lamin ChIP-seq data
+genomesFile genomes.txt
+email hahm0621@gmail.com

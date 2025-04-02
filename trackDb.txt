@@ -1,0 +1,15 @@
+track sample1
+type bedGraph
+shortLabel LaminA
+longLabel ChIP-seq LaminA
+bigDataUrl https://raw.githubusercontent.com/HAHM0612/UCSC/main/LaminA.trimmed-cut.bwa-Dflt.mapped.n-sorted.fixed.sorted.dedup.log2ChIPinput.RPGC.smooth.bdg.gz
+color 255,111,105
+visibility dense
+
+track sample2
+type bedGraph
+shortLabel Sample2
+longLabel ChIP-seq Sample 2
+bigDataUrl https://raw.githubusercontent.com/HAHM0612/UCSC/main/LaminB.trimmed-cut.bwa-Dflt.mapped.n-sorted.fixed.sorted.dedup.log2ChIPinput.RPGC.smooth.bdg.gz
+color 0,91,150
+visibility dense

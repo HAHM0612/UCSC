@@ -1,0 +1,2 @@
+genome rn6
+trackDb trackDb.txt
