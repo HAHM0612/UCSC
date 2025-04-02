@@ -1,8 +1,0 @@
-track LaminB
-shortLabel LaminB
-longLabel LaminB.RPGC.bdg
-type bedGraph
-bigDataUrl https://raw.githubusercontent.com/HAHM0612/UCSC/main/LaminB.trimmed-cut.bwa-Dflt.mapped.n-sorted.fixed.sorted.dedup.log2ChIPinput.RPGC.smooth.bdg.gz
-visibility dense
-color 0,91,150
-
