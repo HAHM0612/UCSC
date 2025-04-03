@@ -1,16 +1,15 @@
-track sample1
+track LaminA
 type bedGraph
 shortLabel LaminA
 longLabel ChIP-seq LaminA
 bigDataUrl http://ago.korea.ac.kr/UCSC_upload/HAHM/bdg/LaminA.trimmed-cut.bwa-Dflt.mapped.n-sorted.fixed.sorted.dedup.log2ChIPinput.RPGC.smooth.bdg
-
 color 255,111,105
 visibility dense
 
-track sample2
+track LaminB
 type bedGraph
-shortLabel Sample2
-longLabel ChIP-seq Sample 2
+shortLabel LaminB
+longLabel ChIP-seq ChIP-seq LaminB
 bigDataUrl http://ago.korea.ac.kr/UCSC_upload/HAHM/bdg/LaminB.trimmed-cut.bwa-Dflt.mapped.n-sorted.fixed.sorted.dedup.log2ChIPinput.RPGC.smooth.bdg
 color 0,91,150
 visibility dense
